@@ -51,7 +51,7 @@ export default function Contact() {
                         </form>
                     </div>
                     <div className="col-lg-5 mt-3 mt-lg-0">
-                        <div className="bg-light p-3 mb-4 ">
+                        <div className="bg-light p-3 mb-4 border border-secondary ">
                             <h5>Connect with us</h5>
                             <ul className="list">
                                 <li><a href="/" className="text-decoration-none">Find us on Facebook</a></li>
@@ -61,7 +61,7 @@ export default function Contact() {
                                 <li><a href="/" className="text-decoration-none">Follow on Instagram</a></li>
                             </ul>
                         </div>
-                        <div className="bg-light p-3 ">
+                        <div className="bg-light p-3 border border-secondary">
                             <h5>Licensing and Reuse of Content:</h5>
                             <p className="small mb-1">
                                 Contact our official partner, Wright’s Media...
