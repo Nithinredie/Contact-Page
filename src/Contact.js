@@ -21,7 +21,6 @@ export default function Contact() {
                                 <select className="form-select"> 
                                     <option>Advertising Inquiry</option>
                                     <option>Support</option>
-                                    <option>General Feedback</option>
                                 </select>
                             </div>
                             <div className="mb-3">
